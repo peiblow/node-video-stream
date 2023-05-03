@@ -1,0 +1,19 @@
+{
+  "name": "stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "web": "npx http-server .",
+    "prepare-video": "sh ./config/prepare.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "nodemon": "^2.0.21"
+  }
+}
