@@ -1,5 +1,5 @@
 #
-### Hi, this is my nodeJs video editor using node streams and the libraly ffmpeg.
+### Hi, this is my nodeJs video editor using node streams and the library ffmpeg.
 #
 <br>
 . Its too simple to use, first of all add your video on the assets folder and run the command below on your terminal.
